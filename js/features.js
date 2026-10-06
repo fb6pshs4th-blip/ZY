@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA';
+    var SRC = 'https://fb6pshs4th-blip.github.io/ZY/silent.m4a.m4a';
     var _audio = null;
     var _unlockBound = false;
 
